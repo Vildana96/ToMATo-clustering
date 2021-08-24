@@ -1,5 +1,2 @@
 # ToMATo-clustering
-ToMATo algoritam klasterovanja primenjujemo na razne skupove podataka u raznim dimenzijama. To su sledece tri grupe skupova podataka: 
-1. Sinteticki skup generisan u dve (clustering_2d) i tri dimenzije (clustering_3d) 
-2. Komponente boje slika u racunaru (clustering_image/luv_dist) i dodatne prostorne informacije na slikama (clustering_iamge/luv_spatial_dist)
-3. Devetodimenzionalni skup tacaka generisan iz video zapisa prostorije (clustering_room)
+ТоМАТо алгоритам кластеровања примењујемо на разне скупове података у разним димензијама. У фолдерима clustering_2d и clustering_3d се налазе детаљно искоментарисани кодови за примену алгоритма на дводимензионални и тродимензионални синтетички скуп података. У фолдерима clustering_image и clustering_room се налазе кодови за примену алгоритма за сегментацију слика и просторија, тим редом.
